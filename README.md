@@ -1,11 +1,11 @@
 # PSLCA Student Hub
 
-Prepared for review; GitHub Pages must remain disabled until publication is approved.
+Electrical Engineering — Resistors & LEDs
 
-Contains nine student PDFs: three activities for each of grades 5–6, 7–8, and 9–10. The student files are byte-for-byte copies of their corresponding grade-level attachments. No teacher answer keys or Thursday voltage materials are included.
+Choose your grade folder:
 
-The page requests no search indexing. This is not access control: a published GitHub Pages site and files remain public. An enforced shared password requires a separate hosting/authentication solution. Do not place answer keys, grades, student responses, or other private material in this repository.
+- [Grades 5–6](Grades_5-6/)
+- [Grades 7–8](Grades_7-8/)
+- [Grades 9–10](Grades_9-10/)
 
-Google Forms and resource links can be added when their actual URLs are available. No forms or submission backend are included yet.
-
-To preview locally, serve this directory using a static web server. No build is required.
+Each folder contains the Resistor Identification Worksheet, LED Circuit Lab, and Resistor Color-Code Bell Ringer for that grade group.
