@@ -19,6 +19,7 @@ Open your class band to see its topic folders. Each topic keeps its related work
 - [Assignments and Online Resources](#4-assignments-and-online-resources)
 - [Classroom Participation and Expectations](#5-classroom-participation-and-expectations)
 - [How Grades Are Applied](#6-how-grades-are-applied)
+- [Submission Window and Late Work](#submission-window-and-late-work)
 - [Current Equipment / At-Home Supplies](#7-current-equipment--at-home-supplies)
 - [Hands-On Work Completed Outside School / Photo Evidence](#8-hands-on-work-completed-outside-school--photo-evidence)
 - [Shared Resources — All Classes](Shared_Resources/)
@@ -93,8 +94,28 @@ I appreciate your continued support in reinforcing these expectations at home. W
 
 Students are responsible for completing assigned work, showing the required calculations and reasoning, participating in class, and maintaining their robotics notebook. Follow the instructions and scoring criteria provided for each assignment, project, lab, or notebook check.
 
+### Submission Window and Late Work
+
+Assignments are due on the date specified by the teacher. **The late-work deduction begins on the next school day after the assignment’s due date.**
+
+The **highest possible grade drops by 10 percentage points for each school day late**, as shown below. After five school days late, the highest possible grade remains **50%**.
+
+| Submission timing | Highest possible assignment grade |
+| --- | --- |
+| On or before the due date | 100% |
+| 1 school day late | 90% |
+| 2 school days late | 80% |
+| 3 school days late | 70% |
+| 4 school days late | 60% |
+| 5 or more school days late | 50% |
+
+These are maximum possible grades, not guaranteed scores. Work is still graded for accuracy, completion, and the assignment’s requirements. Count **school days**, not calendar days.
+
+### Grading Requirements
+
 | Graded item or situation | How it applies |
 | --- | --- |
+| Late work | Maximum grade drops by **10 percentage points per school day after the due date**, down to a **50% maximum at five or more school days late**. |
 | Written assignments and lab work | Show calculations, reasoning, and steps where applicable. Final answers alone are not sufficient. |
 | Notebook checks | Graded assignments. Keep work complete, organized, and up to date; transfer temporary loose-leaf work before the next graded check. |
 | Missing robotics notebook | Subtract **15 percentage points from the total score for that day**; for example, 100% → 85%. |
