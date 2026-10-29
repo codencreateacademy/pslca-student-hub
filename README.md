@@ -19,6 +19,7 @@ Open your class band to see its topic folders. Each topic keeps its related work
 - [Assignments and Online Resources](#4-assignments-and-online-resources)
 - [Classroom Participation and Expectations](#5-classroom-participation-and-expectations)
 - [How Grades Are Applied](#6-how-grades-are-applied)
+- [Current Equipment / At-Home Supplies](#7-current-equipment--at-home-supplies)
 - [Shared Resources — All Classes](Shared_Resources/)
 
 ## 1. Class Structure
@@ -100,5 +101,24 @@ Students are responsible for completing assigned work, showing the required calc
 | Required resistor reference project | Keep the completed project from last quarter in the notebook. Accuracy, neatness, organization, and usable drawings are essential. |
 
 The deductions above are **percentage points**, not a percentage of the earned score. Each deduction applies to the score identified above.
+
+## 7. Current Equipment / At-Home Supplies
+
+The items below are the equipment currently used in our electrical engineering coursework. **If a student does not complete the hands-on portion of an assignment during class and needs to finish it outside school hours, they will need access to the equipment required for that activity.** This list helps families identify the classroom supplies for that purpose; it is not a request for every family to purchase all items immediately.
+
+| Equipment | Classroom product / specifications |
+| --- | --- |
+| LEDs | **[DiCUNO 450-piece 5 mm LED Diode Kit — 5 colors](https://www.amazon.com/dp/B013GNC08C)** |
+| Batteries | **Amazon Basics AA Alkaline High-Performance Batteries — 1.5 V, 8-pack** |
+| Multimeter | **AstroAI Digital Multimeter Tester — 2000 counts, blue**; measures DC/AC voltage, current, resistance, continuity, and diodes. |
+| Resistors | **ALLECIN 25-Value 2 W Carbon Film Resistor Kit — 1 Ω to 1 MΩ, ±5% tolerance** |
+
+The quantities above describe the retail packages. Follow the assigned activity for the number and type of components to use.
+
+**For assembling the circuits:** Students also need a **2-AA battery holder and connecting leads**. Our current LED circuit activities use two 1.5 V AA batteries for approximately 3 V.
+
+Use the assignment for your grade band: [Grades 5–6](Grades_5-6/) · [Grades 7–8](Grades_7-8/) · [Grades 9–10](Grades_9-10/). Keep calculations, observations, and completed written work in your [robotics notebook](#2-robotics-notebook-requirement).
+
+**Before connecting power:** Have the wiring checked by the teacher or a supervising adult. Always use a current-limiting resistor with an LED. Disconnect the batteries before changing wiring or measuring resistance.
 
 [Back to Quick Navigation](#quick-navigation)
