@@ -143,7 +143,7 @@ I may accept hands-on work completed outside school hours. Acceptance of this wo
 
 ### Where to Submit
 
-Send photos directly to the teacher through the private submission method provided for the assignment. **Do not upload student photos to this public GitHub repository.** Ask the teacher for submission instructions if a private method has not been specified.
+Email photos and required written work directly to **Mr. Caleb Dawkins at [c.dawkinspslca@gmail.com](mailto:c.dawkinspslca@gmail.com)**, unless the assignment specifies another private submission method. Include the student’s name, grade band, and assignment title in the subject line. **Do not upload student photos to this public GitHub repository.**
 
 Students completing work outside school hours must arrange access to their own materials as explained in [Current Equipment / At-Home Supplies](#7-current-equipment--at-home-supplies). My personally purchased classroom equipment is not supplied for take-home use.
 
