@@ -20,6 +20,7 @@ Open your class band to see its topic folders. Each topic keeps its related work
 - [Classroom Participation and Expectations](#5-classroom-participation-and-expectations)
 - [How Grades Are Applied](#6-how-grades-are-applied)
 - [Current Equipment / At-Home Supplies](#7-current-equipment--at-home-supplies)
+- [Hands-On Work Completed Outside School / Photo Evidence](#8-hands-on-work-completed-outside-school--photo-evidence)
 - [Shared Resources — All Classes](Shared_Resources/)
 
 ## 1. Class Structure
@@ -113,6 +114,8 @@ The items below are the equipment currently used in our electrical engineering c
 | Multimeter | **AstroAI Digital Multimeter Tester — 2000 counts, blue**; measures DC/AC voltage, current, resistance, continuity, and diodes. |
 | Resistors | **ALLECIN 25-Value 2 W Carbon Film Resistor Kit — 1 Ω to 1 MΩ, ±5% tolerance** |
 
+**Equipment for work outside school:** Families are responsible for arranging access to the materials needed to complete the assigned activity outside school hours. I do not provide or lend my personally purchased classroom equipment for students to take home.
+
 The quantities above describe the retail packages. Follow the assigned activity for the number and type of components to use.
 
 **For assembling the circuits:** Students also need a **2-AA battery holder and connecting leads**. Our current LED circuit activities use two 1.5 V AA batteries for approximately 3 V.
@@ -120,5 +123,28 @@ The quantities above describe the retail packages. Follow the assigned activity 
 Use the assignment for your grade band: [Grades 5–6](Grades_5-6/) · [Grades 7–8](Grades_7-8/) · [Grades 9–10](Grades_9-10/). Keep calculations, observations, and completed written work in your [robotics notebook](#2-robotics-notebook-requirement).
 
 **Before connecting power:** Have the wiring checked by the teacher or a supervising adult. Always use a current-limiting resistor with an LED. Disconnect the batteries before changing wiring or measuring resistance.
+
+## 8. Hands-On Work Completed Outside School / Photo Evidence
+
+I may accept hands-on work completed outside school hours. Acceptance of this work is subject to the teacher’s approval; students should confirm arrangements for incomplete work with me.
+
+**Students must provide photo evidence showing themselves with every required hands-on build, interactive activity, and iteration or version.** The evidence must identify the student completing the work and clearly show the corresponding build or activity.
+
+### What to Submit
+
+- **Include the student in each photo**, together with the specific build, interactive portion, or iteration being documented. The student and their work must be clearly visible.
+- **Photograph every required version.** If an activity asks for five builds or versions, submit at least five photos: one showing the student with each required version.
+- **Cover every hands-on activity within the assignment.** If an assignment includes several activities, and each activity has its own iterations, photograph every required iteration of every activity.
+- **Document each iteration before changing the build.** A photo of only the final design does not document earlier versions.
+- **Label the evidence** with the student’s name, assignment, activity or challenge number, and iteration or version number so I can match each photo to the instructions.
+- **Submit the written work as well.** Photos accompany the required calculations, measurements, observations, explanations, and notebook work.
+
+**Example:** An assignment has two hands-on activities. Activity 1 requires three versions, and Activity 2 requires two versions. Submit **at least five photos total**, each showing the student with the corresponding version: Activity 1 / Versions 1, 2, and 3; Activity 2 / Versions 1 and 2.
+
+### Where to Submit
+
+Send photos directly to the teacher through the private submission method provided for the assignment. **Do not upload student photos to this public GitHub repository.** Ask the teacher for submission instructions if a private method has not been specified.
+
+Students completing work outside school hours must arrange access to their own materials as explained in [Current Equipment / At-Home Supplies](#7-current-equipment--at-home-supplies). My personally purchased classroom equipment is not supplied for take-home use.
 
 [Back to Quick Navigation](#quick-navigation)
