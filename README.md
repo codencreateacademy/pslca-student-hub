@@ -3,7 +3,13 @@
 **Port St. Lucie Christian Academy · Mr. Caleb Dawkins**  
 **Second Quarter · Electrical Engineering — Resistors & LEDs**
 
-Welcome! This hub provides class assignments, lab resources, and shared reference materials. Choose your grade group for assigned work. Shared resources are available to every class.
+Welcome! This hub provides class assignments, lab resources, and shared reference materials. Choose your grade group, then a topic folder, for assigned work. Shared resources are available to every class.
+
+## Choose Your Class
+
+[**Grades 5–6**](Grades_5-6/) · [**Grades 7–8**](Grades_7-8/) · [**Grades 9–10**](Grades_9-10/) · [**Shared Resources**](Shared_Resources/)
+
+Open your class band to see its topic folders. Each topic keeps its related worksheets, bell ringers, and labs together.
 
 ## Quick Navigation
 
@@ -51,13 +57,17 @@ Accuracy, neatness, and organization are especially important. Students must be 
 
 Students can access class assignments and resources through [Code N’ Create on GitHub](https://github.com/codencreateacademy) and this PSLCA Student Hub.
 
-### Grade-Level Assignments
+### Find Your Assignments
 
-| Grade group | Class folder | Resistor identification | LED circuit lab | Color-code bell ringer |
-| --- | --- | --- | --- | --- |
-| Grades 5–6 | [Open folder](Grades_5-6/) | [Open worksheet](Grades_5-6/Resistor_Identification.pdf) | [Open lab](Grades_5-6/LED_Circuit_Lab.pdf) | [Open bell ringer](Grades_5-6/Resistor_Bell_Ringer.pdf) |
-| Grades 7–8 | [Open folder](Grades_7-8/) | [Open worksheet](Grades_7-8/Resistor_Identification.pdf) | [Open lab](Grades_7-8/LED_Circuit_Lab.pdf) | [Open bell ringer](Grades_7-8/Resistor_Bell_Ringer.pdf) |
-| Grades 9–10 | [Open folder](Grades_9-10/) | [Open worksheet](Grades_9-10/Resistor_Identification.pdf) | [Open lab](Grades_9-10/LED_Circuit_Lab.pdf) | [Open bell ringer](Grades_9-10/Resistor_Bell_Ringer.pdf) |
+**Choose your grade band → open a topic folder → open the assigned activity.**
+
+- **[Grades 5–6 · Topic Library](Grades_5-6/)**
+- **[Grades 7–8 · Topic Library](Grades_7-8/)**
+- **[Grades 9–10 · Topic Library](Grades_9-10/)**
+
+Each grade band contains separate **Resistors** and **LED Circuits** topic folders. Choose your own grade band first so you open the correct assignment version. New units, such as voltage, will have their own topic folders when materials are posted.
+
+Resistor identification and resistor bell ringers are grouped together under **Resistors**. LED circuit labs are under **LED Circuits**. Shared references stay in **Shared Resources — All Classes**.
 
 ### Shared Resources — All Classes
 
