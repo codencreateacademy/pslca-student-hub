@@ -2,6 +2,12 @@
 
 Electrical Engineering — Resistors & LEDs
 
+## Shared resources · All classes
+
+- [Resistor Color-Code Chart](Shared_Resources/)
+
+## Grade resources
+
 Choose your grade folder:
 
 - [Grades 5–6](Grades_5-6/)
