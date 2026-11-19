@@ -54,7 +54,7 @@ Students who have not completed this project should do so as soon as possible.
 
 Accuracy, neatness, and organization are especially important. Students must be able to understand their own drawings and use them as reliable references during assignments.
 
-**Reference:** [Shared Resistor Color-Code Chart](Shared_Resources/) · [Open the Chart](Shared_Resources/resistor-color-code.svg) · [PNG Version](Shared_Resources/Resistor_Color_Code_Chart_Matching.png)
+**Reference:** [Shared Resistor Color-Code Chart](Shared_Resources/) · [Open the Chart](Shared_Resources/Resistors/resistor-color-code.svg) · [PNG Version](Shared_Resources/Resistors/Resistor_Color_Code_Chart_Matching.png)
 
 ## 4. Assignments and Online Resources
 
@@ -68,15 +68,17 @@ Students can access class assignments and resources through [Code N’ Create on
 - **[Grades 7–8 · Topic Library](Grades_7-8/)**
 - **[Grades 9–10 · Topic Library](Grades_9-10/)**
 
-Each grade band contains separate **Resistors** and **LED Circuits** topic folders. Choose your own grade band first so you open the correct assignment version. New units, such as voltage, will have their own topic folders when materials are posted.
+Each grade band contains separate **Voltage Lab**, **Resistors** and **LED Circuits** topic folders. Choose your own grade band first so you open the correct assignment version. Open Voltage Lab for the grade-specific study guide and test-day information.
 
 Resistor identification and resistor bell ringers are grouped together under **Resistors**. LED circuit labs are under **LED Circuits**. Shared references stay in **Shared Resources — All Classes**.
 
 ### Shared Resources — All Classes
 
+- [Voltage Lab: main and supplementary presentations, simulator and video](Shared_Resources/Voltage_Lab/)
+
 - [Resistor Reference Guide and Color-Code Chart](Shared_Resources/)
-- [Full-Size Resistor Chart](Shared_Resources/resistor-color-code.svg)
-- [Resistor Chart — PNG](Shared_Resources/Resistor_Color_Code_Chart_Matching.png)
+- [Full-Size Resistor Chart](Shared_Resources/Resistors/resistor-color-code.svg)
+- [Resistor Chart — PNG](Shared_Resources/Resistors/Resistor_Color_Code_Chart_Matching.png)
 
 **Students are expected to show their written work, including calculations, reasoning, and steps where applicable. Providing only final answers is not sufficient.**
 
