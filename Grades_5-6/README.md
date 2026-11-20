@@ -17,3 +17,9 @@ Open **Voltage Lab** for the current voltage study guide and test-day informatio
 ## Shared Reference
 
 [Resistor Color-Code Chart](../Shared_Resources/) — available to every class.
+
+## Voltage unit: packet, notes and resources
+
+The packet contains the entire voltage unit's work, similar to our resistor unit packet. It is not assigned as homework or work over the break. We will work through it throughout the unit. The packet is one of the main graded parts of the unit and receives checkmark grades as we complete it. It will be collected at the end of the unit alongside notebook notes. Students may use their packet and notebook notes during the test.
+
+Open [Voltage Lab](Voltage_Lab/) for your grade-specific packet, [Voltage Notes](Voltage_Lab/Voltage_Notes.pdf), both downloadable PowerPoints, the YouTube lesson video and simulator instructions. Use Voltage Notes as a topic guide to build a useful reference for your future self. Cover the overall topics for the notes grade; you do not need to answer every prompt separately or copy every definition from the packet. Students and parents may choose the depth and format that will be most helpful.
