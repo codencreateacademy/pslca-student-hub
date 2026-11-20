@@ -43,41 +43,9 @@ Values checked against [Panasonic’s resistor color-code reference](https://ind
 
 ## Series and parallel resistance
 
-**R_T** means total (equivalent) resistance. **R1, R2, ...** are the individual resistances. Resistance is measured in **ohms (Ω)**. Use the same unit throughout a calculation.
+![Series and parallel resistance: labelled schematics, formulas and worked examples](Series-and-Parallel-Resistance.png)
 
-### Resistors in series: add the resistances
-
-One path carries the same current through every resistor.
-
-**R_T = R1 + R2 + R3 + ...**
-
-Example: 100 Ω + 200 Ω + 300 Ω = **600 Ω**.
-
-For **n identical resistors** of resistance R: **R_T = n × R**.
-
-Check: for positive resistances, a series total is greater than any one resistor when two or more are connected.
-
-### Resistors in parallel: add reciprocals, then invert
-
-Each branch connects across the same two points, so every branch has the same voltage.
-
-**1/R_T = 1/R1 + 1/R2 + 1/R3 + ...**
-
-Then take the reciprocal of the sum to find **R_T**. Do not stop at **1/R_T**.
-
-Example: 1/R_T = 1/100 + 1/200 = 0.015, so R_T = 1/0.015 = **66.7 Ω** (rounded).
-
-For **exactly two resistors**, the shortcut is **R_T = (R1 × R2) / (R1 + R2)**.
-
-For **n identical parallel resistors**: **R_T = R/n**. Two 330 Ω resistors give **165 Ω**.
-
-Check: with two or more positive resistors in parallel, the total is less than the smallest individual resistance.
-
-### Connect resistance to current
-
-For an ohmic load, **I = V/R_T**. At the same supply voltage, greater total resistance means less total current. A series/parallel network must be reduced by identifying the connections; do not apply the two-resistor parallel shortcut to three resistors at once.
-
-[Open printable series/parallel notes](https://codencreateacademy.github.io/pslca-student-hub/Shared_Resources/Resistors/series-parallel-resistance.html)
+[Open full-size image](Series-and-Parallel-Resistance.png) · [Open printable notes](https://codencreateacademy.github.io/pslca-student-hub/Shared_Resources/Resistors/series-parallel-resistance.html)
 
 Formula reference: [OpenStax: Resistors in Series and Parallel](https://openstax.org/books/university-physics-volume-2/pages/10-2-resistors-in-series-and-parallel).
 

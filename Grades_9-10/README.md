@@ -7,7 +7,7 @@
 | Topic | What is inside |
 | --- | --- |
 | [Voltage Lab](Voltage_Lab/) | Voltage worksheets/study guide, simulator evidence tasks, and the lab test when released. |
-| [Resistors](Resistors/) | Resistor identification worksheet and resistor color-code bell ringer. |
+| [Resistors](Resistors/) | Resistor identification, color-code bell ringer, and series/parallel resistance image notes. |
 | [LED Circuits](LED_Circuits/) | LED circuit lab. |
 
 Open a topic folder, then choose the assignment your teacher has assigned. Keep your written work in your robotics notebook and show calculations and reasoning where applicable.
