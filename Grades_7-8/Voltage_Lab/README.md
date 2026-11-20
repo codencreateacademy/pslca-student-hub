@@ -36,4 +36,4 @@ Use [the simulator](https://pslca-voltage-lab.netlify.app/) → **Demonstrate** 
 
 ## Lab test
 
-The 45-minute lab test is scheduled for **Thursday, November 26, 2026**. The test document is not published before test day.
+The teacher will announce the lab test date. The test document is not published yet.
