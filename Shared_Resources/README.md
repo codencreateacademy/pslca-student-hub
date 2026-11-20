@@ -9,4 +9,4 @@
 
 ## Shared voltage notes
 
-[Voltage Notes](Voltage_Lab/Voltage_Notes.pdf) - notebook topic guide for all three grade bands. Use [both downloadable PowerPoints, the video and simulator](Voltage_Lab/).
+[Voltage Notes](Voltage_Lab/Voltage_Notes.pdf) - notebook topic guide for all three grade bands. Use [both browser-viewable slide decks, the video and simulator](Voltage_Lab/).
