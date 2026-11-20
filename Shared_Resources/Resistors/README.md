@@ -4,7 +4,7 @@
 
 ![Resistor color-code chart](resistor-color-code.svg)
 
-[Open full-size chart](resistor-color-code.svg) · [Open printable page](resistor-color-code.html)
+[Open full-size chart](resistor-color-code.svg) · [Open printable page](https://codencreateacademy.github.io/pslca-student-hub/Shared_Resources/Resistors/resistor-color-code.html)
 
 ## How to read the bands
 
@@ -77,7 +77,7 @@ Check: with two or more positive resistors in parallel, the total is less than t
 
 For an ohmic load, **I = V/R_T**. At the same supply voltage, greater total resistance means less total current. A series/parallel network must be reduced by identifying the connections; do not apply the two-resistor parallel shortcut to three resistors at once.
 
-[Open printable series/parallel notes](series-parallel-resistance.html)
+[Open printable series/parallel notes](https://codencreateacademy.github.io/pslca-student-hub/Shared_Resources/Resistors/series-parallel-resistance.html)
 
 Formula reference: [OpenStax: Resistors in Series and Parallel](https://openstax.org/books/university-physics-volume-2/pages/10-2-resistors-in-series-and-parallel).
 
