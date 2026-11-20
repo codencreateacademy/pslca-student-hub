@@ -24,7 +24,7 @@ Use Voltage Notes as a topic guide to build a useful reference for your future s
 ## How to access your resources
 
 1. Open your grade band's **worksheets and study guide** and work through the packet with our class activities.
-2. Use **both** the [main PowerPoint](https://codencreateacademy.github.io/pslca-student-hub/Shared_Resources/Voltage_Lab/main-slides.html) and [supplementary PowerPoint](https://codencreateacademy.github.io/pslca-student-hub/Shared_Resources/Voltage_Lab/supplementary-slides.html). Slides open in your browser with **no account required**. Optional PowerPoint downloads are available on the shared resource page.
+2. Use **both** the [main PowerPoint](https://codencreateacademy.github.io/pslca-student-hub/Shared_Resources/Voltage_Lab/main-slides.html) and [supplementary PowerPoint](https://codencreateacademy.github.io/pslca-student-hub/Shared_Resources/Voltage_Lab/supplementary-slides.html). Slides open in your browser with **no account required**.
 3. Revisit [The Engineering Mindset voltage video on YouTube](https://www.youtube.com/watch?v=w82aSjLuD_8).
 4. Use the [Voltage Lab simulator](https://pslca-voltage-lab.netlify.app/): **Practice** for learning and checking, then **Demonstrate** for the assigned screenshot evidence.
 5. Use [Voltage Notes](Voltage_Notes.pdf) to organize your notebook. Bring your packet and notebook to class.
@@ -34,4 +34,3 @@ Use Voltage Notes as a topic guide to build a useful reference for your future s
 
 [Main slide PDF](https://codencreateacademy.github.io/pslca-student-hub/Shared_Resources/Voltage_Lab/Voltage_Main_Presentation.pdf) · [Supplementary slide PDF](https://codencreateacademy.github.io/pslca-student-hub/Shared_Resources/Voltage_Lab/Voltage_Supplementary_Presentation.pdf)
 
-[Main PowerPoint](https://codencreateacademy.github.io/pslca-student-hub/Shared_Resources/Voltage_Lab/Voltage_Main_Presentation.pptx) · [Supplementary PowerPoint](https://codencreateacademy.github.io/pslca-student-hub/Shared_Resources/Voltage_Lab/Voltage_Supplementary_Presentation.pptx)
